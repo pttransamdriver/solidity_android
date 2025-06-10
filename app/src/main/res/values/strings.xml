@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Solidity Quiz App</string>
+    
+    <!-- Main Activity -->
+    <string name="welcome_title">Welcome to Solidity Learning</string>
+    <string name="welcome_subtitle">Master smart contract development through interactive lessons and quizzes</string>
+    <string name="view_progress">View Progress</string>
+    
+    <!-- Level Titles -->
+    <string name="level_1_title">ERC-20 Token Contract</string>
+    <string name="level_1_description">Build your first smart contract - a simple ERC-20 token with JavaScript testing</string>
+    
+    <string name="level_2_title">ERC-721 NFT Contract</string>
+    <string name="level_2_description">Create unique digital assets with NFT contracts and comprehensive testing</string>
+    
+    <string name="level_3_title">Crowdfunding via NFT</string>
+    <string name="level_3_description">Build a crowdfunding platform that mints NFTs as rewards</string>
+    
+    <string name="level_4_title">DAO Contract</string>
+    <string name="level_4_description">Create a decentralized autonomous organization with voting mechanisms</string>
+    
+    <string name="level_5_title">AMM Contract &amp; React Frontend</string>
+    <string name="level_5_description">Build an automated market maker with React/Redux frontend integration</string>
+    
+    <!-- Status Messages -->
+    <string name="status_completed">Completed</string>
+    <string name="status_available">Available</string>
+    <string name="status_locked">Locked</string>
+    <string name="status_in_progress">In Progress</string>
+    
+    <!-- Quiz Messages -->
+    <string name="quiz_correct">Correct!</string>
+    <string name="quiz_incorrect">Incorrect.</string>
+    <string name="quiz_completed">Quiz completed!</string>
+    <string name="quiz_passed">Congratulations! You passed the quiz.</string>
+    <string name="quiz_failed">You need to score at least 70% to pass. Try again!</string>
+    
+    <!-- Button Labels -->
+    <string name="start_quiz">Start Quiz</string>
+    <string name="submit_answer">Submit Answer</string>
+    <string name="next_question">Next Question</string>
+    <string name="try_again">Try Again</string>
+    <string name="continue_learning">Continue Learning</string>
+    
+    <!-- Progress -->
+    <string name="overall_progress">Overall Progress: %1$d%%</string>
+    <string name="completed_levels">Completed Levels: %1$d/%2$d</string>
+    <string name="lessons_progress">Lessons: %1$d/%2$d</string>
+    
+    <!-- Error Messages -->
+    <string name="error_no_questions">No questions available for this lesson</string>
+    <string name="error_level_locked">This level is locked. Complete previous levels first.</string>
+    <string name="error_loading_content">Error loading content. Please try again.</string>
+</resources>
